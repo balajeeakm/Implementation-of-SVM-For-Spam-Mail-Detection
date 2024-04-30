@@ -65,18 +65,28 @@ accuracy
 ![SVM For Spam Mail Detection](sam.png)
 
 Result output:
-![image](https://github.com/balajeeakm/Implementation-of-SVM-For-Spam-Mail-Detection/assets/131589871/75eb4f13-da68-4d8f-a478-10169b7b72f6)
-data.head()
+![image](https://github.com/balajeeakm/Implementation-of-SVM-For-Spam-Mail-Detection/assets/131589871/75eb4f13-da68-4d8f-a478-10169b7b72f6) 
+
+data.head():
+
 ![image](https://github.com/balajeeakm/Implementation-of-SVM-For-Spam-Mail-Detection/assets/131589871/070e8e33-1115-493b-b17f-25668b8cea53)
-data.info()
+
+data.info():
+
 
 ![image](https://github.com/balajeeakm/Implementation-of-SVM-For-Spam-Mail-Detection/assets/131589871/b76a6f40-8337-45ef-bee8-232866405a19)
-data.isnull().sum()
+
+data.isnull().sum():
+
 
 ![image](https://github.com/balajeeakm/Implementation-of-SVM-For-Spam-Mail-Detection/assets/131589871/a6be1a8e-3cba-4772-a826-175b603bc2bf)
-Y_prediction value
+
+Y_prediction value:
+
 ![image](https://github.com/balajeeakm/Implementation-of-SVM-For-Spam-Mail-Detection/assets/131589871/2a4bb6a2-e5c2-47d5-a622-bc0c13586d6b)
-Accuracy value
+
+Accuracy value:
+
 
 ![image](https://github.com/balajeeakm/Implementation-of-SVM-For-Spam-Mail-Detection/assets/131589871/5ef8ccb6-98ab-4e9a-ac7a-925abeee593b)
 
